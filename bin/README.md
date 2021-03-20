@@ -1,0 +1,3 @@
+bin目录存放生成可执行的文件
+ChatServer
+ChatClient
